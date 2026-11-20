@@ -6,4 +6,4 @@ X="Hari";
 console.log(X);
 
 const fname="Siri"
-console.log(fname);
+console.log(fname); 
